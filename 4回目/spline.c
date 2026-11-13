@@ -1,3 +1,5 @@
+//MS365の障害により，前回課題のpoints.txtが消えてしまったので，暫定的にsinx関数のspline補間を行うプログラムを作成した．
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
